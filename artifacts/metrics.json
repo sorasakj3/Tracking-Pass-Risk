@@ -1,0 +1,13 @@
+{
+  "samples": 799,
+  "train_samples": 559,
+  "validation_samples": 120,
+  "test_samples": 120,
+  "test_pressure_rate": 0.2083333283662796,
+  "neural_average_precision": 0.8473031512356061,
+  "neural_roc_auc": 0.9608421052631579,
+  "neural_brier": 0.06488928198814392,
+  "logistic_average_precision": 0.8578694169821643,
+  "best_epoch": 69,
+  "recommended_model": "logistic_baseline"
+}
